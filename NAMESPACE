@@ -1,0 +1,5 @@
+export(hct,print,summary)
+importFrom(stats,pnorm,qnorm,uniroot,pt)
+import(rstan)
+S3method(print, hct)
+S3method(summary,hct)
