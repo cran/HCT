@@ -1,10 +1,8 @@
-d581ea9a119fe1350c3f9e709289dcdc *DESCRIPTION
+b9260f03ee24c1423e6cea27aeb6957b *DESCRIPTION
 667a593c11be449bdc3019dce36279b7 *NAMESPACE
 a5e514c2d1c78e3b486ef5fa54e0d0e3 *R/histControls_new.R
-90610bcc1b0576e758a613b88b7fc07d *data/ALShctObjects.rda
-52da5a9f86b0db8efde680fbfac6d7eb *data/datalist
-f5e1e579f99f5e2ee8d6743a0602e6f5 *man/ALShctObjects.Rd
+6185a07099d85f6b6e3a6ea1e990e579 *data/ALShctObjects.rda
+d6f90906e38afe35389c05ea719a5985 *man/ALShctObjects.Rd
 6f448baead315e5888c6ee472fa3121c *man/hct.Rd
 9abfdc6a7b19be020dc926b015511003 *man/print.hct.Rd
 f1ddfdb146da1fd026e4d84408c9511a *man/summary.hct.Rd
-18fc3a1611cc49ce3ade27ad8f526b51 *tests/testthat.R
